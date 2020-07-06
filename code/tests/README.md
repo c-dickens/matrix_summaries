@@ -1,0 +1,3 @@
+# Tests
+This directory hosts some basic testing functionality for the implementations.
+The tests can be run by executing...
